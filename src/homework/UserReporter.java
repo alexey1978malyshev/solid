@@ -1,5 +1,7 @@
 package homework;
 
+import homework.sys.Syst;
+
 public class UserReporter  extends User implements Reportable{
 
     public UserReporter(String name) {
